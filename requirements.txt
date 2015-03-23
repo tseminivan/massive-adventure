@@ -1,2 +1,3 @@
 django-oscar
 pycountry
+gunicorn
